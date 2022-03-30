@@ -1,4 +1,6 @@
-### Hi there 👋👋
+<div align="center">
+  
+### Hi There✨    
 ### I'm studying <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nightowl)
+  </div>
