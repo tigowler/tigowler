@@ -5,8 +5,7 @@
 <p><img src="https://img.shields.io/badge/Spring-6DB33F?style=flate&logo=Spring&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></p>
 
 #  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=nord)
 </div>
 
 <!--
