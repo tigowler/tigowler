@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nord"></img>
 
-# Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>
+## Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>
 📚 (current) Sookmyung Women's University, IT Engineering  
 ⭐ mainly interested in 
 <br/>
