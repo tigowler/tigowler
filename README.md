@@ -1,3 +1,4 @@
+<div align="center">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nord"></img>
 
 <div align="center">
