@@ -1,7 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nord"></img>
 
+<div align="center">
+  
 ### Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>  
-📚 (current) Sookmyung Women's University, IT Engineering  
+📚 (current) Sookmyung Women's University   
+💻 IT Engineering  
 ⭐ mainly interested in 
 <br/>
 <div align="center">
@@ -11,7 +14,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
-  
+</div>
+
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigowler&exclude_repo=TinyBlog&layout=compact&theme=nord"></img>
