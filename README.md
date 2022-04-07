@@ -18,6 +18,7 @@
 
 ---
 
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigowler&exclude_repo=TinyBlog&layout=compact&theme=nord"></img>
 <div align="center">
   
