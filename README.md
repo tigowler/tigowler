@@ -1,6 +1,7 @@
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tigowler&show_icons=true&theme=nord"></img>
 
-## Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>
+# Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>
 📚 (current) Sookmyung Women's University, IT Engineering  
 ⭐ mainly interested in 
 <br/>
@@ -11,7 +12,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
-  
+</div>
+
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigowler&exclude_repo=TinyBlog&layout=compact&theme=nord"></img>
@@ -30,7 +32,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=bootstrap&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
 <!-- Badges -->
 <!-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=java&logoColor=white"> 
