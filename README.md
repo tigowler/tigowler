@@ -4,7 +4,7 @@
   
 ### Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>  
 📚 (current) Sookmyung Women's University   
-💻 IT Engineering  
+💻 major in IT Engineering  
 ⭐ mainly interested in 
 <br/>
 <div align="center">
