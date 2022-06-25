@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 ### Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>  
 📚 (current) Sookmyung Women's University   
@@ -12,6 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 
+<br>
 
 ### 👀 Once, I've used
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
