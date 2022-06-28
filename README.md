@@ -2,7 +2,7 @@
   
 ### Hi There✨ I'm Eunbi 🙋‍ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aisapple1030"></img>  
 📚 (current) Sookmyung Women's University   
-💻 major in IT Engineering
+💻 major in IT Engineering  
 👀 you can find some of my stories in [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">](https://velog.io/@fisflower1030)  
 ⭐ mainly interested in 
 <br/>
