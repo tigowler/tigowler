@@ -1,7 +1,7 @@
 <div>
   
 ### Hi There✨ I'm Eunbi 🙋‍  
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://neo-penguin.tistory.com/)
 <br>
 📚 (current) Sookmyung Women's University
 <br>
