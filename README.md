@@ -7,7 +7,6 @@
 <br>
 💻 major in IT Engineering  
 <!--⭐ mainly interested in --> 
-<br/> <br>
 
 ### 👀 Once, I've used
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">    
